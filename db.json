@@ -1,0 +1,210 @@
+{
+  "vinyles": [
+    {
+      "id": "1",
+      "nom": "Be Here Now",
+      "artiste": "OASIS",
+      "annee": 1997,
+      "prix": 60,
+      "categorie": "Pop",
+      "image": "images/oasis_behere.webp",
+      "description": "Be Here Now est le troisième album studio d'Oasis, sorti le 21 août 1997 chez Creation Records.",
+      "disponibilite": true
+    },
+    {
+      "id": "2",
+      "nom": "White Pony",
+      "artiste": "DEFTONES",
+      "annee": 2000,
+      "prix": 40,
+      "categorie": "Metal",
+      "image": "images/deftones_white_pony.webp",
+      "description": "Le groupe de Sacramento, en Californie, effectue une entrée fracassante dans le nouveau millénaire en modelant un son qui se dissocie peu à peu du nu metal.",
+      "disponibilite": true
+    },
+    {
+      "id": "3",
+      "nom": "Led Zeppelin",
+      "artiste": "LED ZEPPELIN",
+      "annee": 1969,
+      "prix": 5.49,
+      "categorie": "Rock",
+      "image": "images/led_zeppelin.webp",
+      "description": "Mené par la voix magnétique de Robert Plant, le groupe londonien déploie un talent unique pour fusionner blues percutant et rock explosif aux solos survoltés.",
+      "disponibilite": false
+    },
+    {
+      "id": "4",
+      "nom": "C'mon you know",
+      "artiste": "LIAM GALLAGHER",
+      "annee": 2022,
+      "prix": 9.60,
+      "categorie": "Pop",
+      "image": "images/liam_gallagher_cmon.webp",
+      "disponibilite": true
+    },
+    {
+      "id": "5",
+      "nom": "Symphony and Metallica",
+      "artiste": "METALLICA",
+      "annee": 1999,
+      "prix": 29.10,
+      "categorie": "Metal",
+      "image": "images/metallica_sm.webp",
+      "description": "À première vue, tout semble opposer le metal et la musique classique. Ainsi, lorsque Metallica s’est associé à l’Orchestre symphonique de San Francisco sur S&M en 1999, les fans des deux bords n’ont pas caché leur scepticisme.",
+      "disponibilite": true
+    },
+    {
+      "id": "6",
+      "nom": "L.A Woman",
+      "artiste": "THE DOORS",
+      "annee": 1971,
+      "prix": 23,
+      "categorie": "Rock",
+      "image": "images/the_doors_la_woman.webp",
+      "disponibilite": false
+    }
+  ],
+  "avis": [
+    {
+      "id": "1",
+      "vinyleId": "1",
+      "utilisateur": "Kristen Larson",
+      "commentaire": "Illum natus nisi aut modi dignissimos.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": "2",
+      "vinyleId": "2",
+      "utilisateur": "Alberto Kessler",
+      "commentaire": "Aut facere ullam velit odio vero aut hic.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": "3",
+      "vinyleId": "6",
+      "utilisateur": "Shane Powlowski",
+      "commentaire": "Sint enim nesciunt laboriosam iusto aut.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": "4",
+      "vinyleId": "4",
+      "utilisateur": "Grace Effertz",
+      "commentaire": "Et aut laborum voluptas culpa ut omnis vel.",
+      "nbEtoiles": 2
+    },
+    {
+      "id": "5",
+      "vinyleId": "5",
+      "utilisateur": "Blanche Hane",
+      "commentaire": "Totam incidunt voluptatibus optio excepturi.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": "6",
+      "vinyleId": "1",
+      "utilisateur": "Catherine Kihn",
+      "commentaire": "Non laborum ex recusandae voluptatem laborum.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": "7",
+      "vinyleId": "2",
+      "utilisateur": "Jimmie Pfannerstill",
+      "commentaire": "Enim aut id ab corporis aut et rem.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "8",
+      "vinyleId": "3",
+      "utilisateur": "Ms. Lydia Grady",
+      "commentaire": "Ipsum officia asperiores necessitatibus id quo laborum.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": "9",
+      "vinyleId": "6",
+      "utilisateur": "Cynthia Leuschke",
+      "commentaire": "Ea dolores sed aut.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "10",
+      "vinyleId": "5",
+      "utilisateur": "Fannie Osinski DVM",
+      "commentaire": "Non sed est alias ex et omnis dolorum corrupti alias.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "11",
+      "vinyleId": "1",
+      "utilisateur": "Melinda Bergstrom",
+      "commentaire": "Voluptas deserunt odit.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "12",
+      "vinyleId": "2",
+      "utilisateur": "Glen Bauch DVM",
+      "commentaire": "Harum consequatur in ex est itaque maxime consequuntur.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": "13",
+      "vinyleId": "3",
+      "utilisateur": "Melanie Fadel",
+      "commentaire": "Eos eum delectus sunt provident.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "14",
+      "vinyleId": "4",
+      "utilisateur": "Amy Ernser",
+      "commentaire": "Sit enim velit esse dolor.",
+      "nbEtoiles": 1
+    },
+    {
+      "id": "15",
+      "vinyleId": "6",
+      "utilisateur": "Toby Russel",
+      "commentaire": "Voluptate ex cum aut tenetur laborum est.",
+      "nbEtoiles": 3
+    },
+    {
+      "id": "16",
+      "vinyleId": "1",
+      "utilisateur": "Frankie Ritchie",
+      "commentaire": "Dolore et explicabo et voluptas at aut saepe.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "17",
+      "vinyleId": "6",
+      "utilisateur": "Priscilla Sporer",
+      "commentaire": "Enim quibusdam et ipsum voluptas est.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "18",
+      "vinyleId": "3",
+      "utilisateur": "Adrian Cassin",
+      "commentaire": "Corrupti consequuntur deleniti voluptas eum officiis hic.",
+      "nbEtoiles": 4
+    },
+    {
+      "id": "19",
+      "vinyleId": "4",
+      "utilisateur": "Nicolas Lesch",
+      "commentaire": "Esse numquam consequatur et sunt.",
+      "nbEtoiles": 5
+    },
+    {
+      "id": "20",
+      "vinyleId": "5",
+      "utilisateur": "Hugo Block",
+      "commentaire": "Sint quidem quia ipsam quae.",
+      "nbEtoiles": 5
+    }
+  ]
+}
